@@ -5,7 +5,7 @@ te shikoni nese OS juaj i permbahet Sisteme qe kjo platform punon. Ky software e
 qe ne nxenesit e Universitetit te Vlores "Ismail Qemali" kemi krijuar per kompanit me pajisje
 elektronike. Ne Filen "Description.md" do keni te dhenat qe karakterizojn T.I.S.
 
-## Faleminderit qe jeni pjes e T.I.S!
+## Faleminderit qe jeni pjese e T.I.S!
 
 
 ### Antaret e grupi : 
